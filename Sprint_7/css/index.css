@@ -1,0 +1,42 @@
+.eenFoto{
+background-image:url("../img/8856.png");
+background-repeat: no-repeat;
+ background-size: cover; 
+ width: 100%;
+    height: 100vh;
+
+}
+.eenFoto2{
+    background-image:url("../img/white.png");
+    background-repeat: no-repeat;
+     background-size: cover; 
+     width: 100%;
+        height: 100vh;
+    
+    }
+    .eenFoto3{
+        background-image:url("../img/groen6.png");
+        background-repeat: no-repeat;
+         background-size: cover; 
+         width: 100%;
+            height: 100vh;
+        
+        }
+
+
+.iets{
+    background-color:white;
+    border:2px solid black;
+    border-color:black;
+    color:black;
+     width:150px; 
+     height:50px;
+     margin:150px;
+     
+}
+
+
+
+
+
+.button {border-radius: 100px;}
